@@ -1,0 +1,19 @@
+/* Global Styles */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+:global(html) {
+	scroll-behavior: smooth;
+}
+
+body {
+	margin: 0 !important;
+	padding: 0 !important;
+	height: 100vh !important;
+	width: 100vw !important;
+	overflow-x: hidden !important; /* Prevent horizontal scroll */
+	overflow-y: auto !important; /* Allow vertical scroll on body */
+	/* Updated Gradient: Deeper space, more vibrant pastels */
+	background: linear-gradient(145deg, #0a041a 0%, #2a104a 25%, #6d3f9c 60%, #f3a0e8 100%) !important;
+	background-attachment: fixed !important;
+	/* Custom cursor is set in ParticleBackground component */
+}
