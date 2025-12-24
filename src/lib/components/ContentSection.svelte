@@ -18,7 +18,21 @@
 			</div>
 		</a>
 
-		<!-- Card 2: Cat String -->
+		<!-- Card 2: PawPaint -->
+		<a
+			href="https://pawpaint.catcafe.space"
+			target="_blank"
+			rel="noopener noreferrer"
+			class="log-button group"
+		>
+			<img src="/paint-brush-svgrepo-com.svg" alt="Paint Brush Icon" class="log-button-logo" />
+			<div class="flex-1">
+				<p class="log-button-title">PawPaint</p>
+				<p class="log-button-description">
+					Create paw-some digital art with your feline friends! A creative canvas where cats and creativity collide in colorful harmony. 🎨✨
+				</p>
+			</div>
+		</a>		<!-- Card 3: Cat String -->
 		<a
 			href="https://string.catcafe.space"
 			target="_blank"
