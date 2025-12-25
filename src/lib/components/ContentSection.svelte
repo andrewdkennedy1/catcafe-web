@@ -25,7 +25,7 @@
 			rel="noopener noreferrer"
 			class="log-button group"
 		>
-			<img src="/paint-brush-svgrepo-com.svg" alt="Paint Brush Icon" class="log-button-logo" />
+			<div class="log-button-logo emoji-icon">🎨</div>
 			<div class="flex-1">
 				<p class="log-button-title">PawPaint</p>
 				<p class="log-button-description">
@@ -117,4 +117,9 @@
 		color: rgba(255, 255, 255, 0.85);
 		line-height: 1.5;
 	}
-</style>
+	.emoji-icon {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 3rem;
+	}</style>
