@@ -47,7 +47,21 @@
 				</p>
 			</div>
 		</a>
-	</div>
+		<!-- Card 4: Neko -->
+		<a
+			href="https://neko.catcafe.space"
+			target="_blank"
+			rel="noopener noreferrer"
+			class="log-button group"
+		>
+			<div class="log-button-logo emoji-icon">🐱</div>
+			<div class="flex-1">
+				<p class="log-button-title">Neko</p>
+				<p class="log-button-description">
+					An interactive toy for all the nekos! Watch adorable cats follow your cursor around the screen in this playful digital companion experience. 🐾✨
+				</p>
+			</div>
+		</a>	</div>
 </div>
 
 <style>
